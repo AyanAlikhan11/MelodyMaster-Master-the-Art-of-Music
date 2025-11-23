@@ -90,8 +90,9 @@ Project will run at: http://localhost:3000/
 
 ## 📸 Screenshots
 
-![Home Page](./screenshots/home.png)
-![Course Page](./screenshots/course.png)
+![Home Page](public\screenshoot\Screenshot1.png)
+![Course Page](public\screenshoot\Screenshot2.png)
+![Contact Page](public\screenshoot\Screenshot3.png)
 
 
 
